@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/aylin/Документы/Учеба/Диплом/Compilator/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/Compilator.dir/main.cpp.o -c /home/aylin/Документы/Учеба/Диплом/Compilator/main.cpp",
+  "file": "/home/aylin/Документы/Учеба/Диплом/Compilator/main.cpp",
+  "output": "CMakeFiles/Compilator.dir/main.cpp.o"
+}
+]

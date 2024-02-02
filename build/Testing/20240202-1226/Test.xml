@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++"
+	BuildStamp="20240202-1226-Experimental"
+	Name="archlinux"
+	Generator="ctest-3.28.1"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="13.2.1"
+	OSName="Linux"
+	Hostname="archlinux"
+	OSRelease="6.6.9-arch1-1"
+	OSVersion="#1 SMP PREEMPT_DYNAMIC Tue, 02 Jan 2024 02:28:28 +0000"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="23"
+	ModelID="113"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="4095"
+	TotalPhysicalMemory="15940"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4062.75"
+	>
+	<Testing>
+		<StartDateTime>Feb 02 15:26 MSK</StartDateTime>
+		<StartTestTime>1706876790</StartTestTime>
+		<TestList/>
+		<EndDateTime>Feb 02 15:26 MSK</EndDateTime>
+		<EndTestTime>1706876790</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
